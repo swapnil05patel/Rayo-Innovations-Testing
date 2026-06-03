@@ -1,0 +1,6 @@
+node_modules/
+.env
+playwright-report/
+playwright-report.zip
+tests/test-results/
+auth-state.json

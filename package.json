@@ -1,0 +1,14 @@
+{
+  "name": "rayo-innovations-playwright",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headful": "xvfb-run -a npx playwright test --project=chromium",
+    "test:headless": "HEADLESS=true npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "dotenv": "^16.3.1"
+  }
+}
