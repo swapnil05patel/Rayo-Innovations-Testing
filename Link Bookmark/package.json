@@ -1,0 +1,17 @@
+{
+  "name": "link-bookmark-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:live": "npx playwright test",
+    "test:debug": "PWDEBUG=1 npx playwright test",
+    "test:inspector": "npx playwright test --debug",
+    "test:visual": "xvfb-run -a npx playwright test --headed",
+    "report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
