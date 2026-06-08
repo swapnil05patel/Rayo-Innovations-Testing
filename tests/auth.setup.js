@@ -1,8 +1,13 @@
-require('dotenv').config();
-const { chromium } = require('@playwright/test');
-const fs = require('fs');
-const path = require('path');
+import dotenv from 'dotenv';
+import { chromium } from '@playwright/test';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
+dotenv.config();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const GOOGLE_EMAIL = process.env.GOOGLE_EMAIL;
 const GOOGLE_PASSWORD = process.env.GOOGLE_PASSWORD;
 const AUTH_STATE_FILE = path.join(__dirname, '..', 'auth-state.json');

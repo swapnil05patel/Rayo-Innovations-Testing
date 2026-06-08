@@ -1,0 +1,188 @@
+{
+  "What is Link Bookmark?": {
+    "Chinese Simplified": {
+      "question": "什么是 Link Bookmark？",
+      "answer": "Link Bookmark 是一个工具，可帮助您保存、组织和管理您喜爱的链接、网站和在线资源，并集中在一个地方以便快速访问。"
+    },
+    "Spanish ES": {
+      "question": "¿Qué es Link Bookmark?",
+      "answer": "Link Bookmark es una herramienta que te ayuda a guardar, organizar y gestionar tus enlaces, sitios web y recursos en línea favoritos en un solo lugar para acceder rápidamente."
+    },
+    "Spanish MX": {
+      "question": "¿Qué es Link Bookmark?",
+      "answer": "Link Bookmark es una herramienta que te ayuda a guardar, organizar y administrar tus enlaces y recursos favoritos en línea en un solo lugar para acceder rápidamente."
+    },
+    "Arabic": {
+      "question": "ما هو Link Bookmark؟",
+      "answer": "Link Bookmark هو أداة تساعدك على حفظ وتنظيم وإدارة الروابط والمواقع والموارد المفضلة لديك في مكان واحد للوصول السريع."
+    },
+    "Hindi": {
+      "question": "Link Bookmark क्या है?",
+      "answer": "Link Bookmark एक टूल है जो आपको अपने पसंदीदा लिंक, वेबसाइट और ऑनलाइन संसाधनों को एक ही स्थान पर सहेजने, व्यवस्थित करने और प्रबंधित करने में मदद करता है।"
+    },
+    "Portuguese BR": {
+      "question": "O que é o Link Bookmark?",
+      "answer": "O Link Bookmark é uma ferramenta que ajuda você a salvar, organizar e gerenciar seus links, sites e recursos online favoritos em um só lugar para acesso rápido."
+    },
+    "French": {
+      "question": "Qu'est-ce que Link Bookmark?",
+      "answer": "Link Bookmark est un outil qui vous aide à sauvegarder, organiser et gérer vos liens, sites et ressources en ligne préférés en un seul endroit pour un accès rapide."
+    },
+    "Russian": {
+      "question": "Что такое Link Bookmark?",
+      "answer": "Link Bookmark — это инструмент, который помогает сохранять, организовывать и управлять вашими любимыми ссылками, сайтами и онлайн-ресурсами в одном месте для быстрого доступа."
+    },
+    "German": {
+      "question": "Was ist Link Bookmark?",
+      "answer": "Link Bookmark ist ein Tool, das Ihnen hilft, Ihre bevorzugten Links, Websites und Online-Ressourcen an einem Ort zu speichern, zu organisieren und zu verwalten."
+    },
+    "Japanese": {
+      "question": "Link Bookmarkとは何ですか？",
+      "answer": "Link Bookmarkは、お気に入りのリンク、ウェブサイト、オンラインリソースを1か所に保存、整理、管理し、すばやくアクセスできるようにするツールです。"
+    },
+    "Indonesian": {
+      "question": "Apa itu Link Bookmark?",
+      "answer": "Link Bookmark adalah alat yang membantu Anda menyimpan, mengatur, dan mengelola tautan, situs web, dan sumber daya online favorit Anda di satu tempat untuk akses cepat."
+    },
+    "Korean": {
+      "question": "Link Bookmark란 무엇입니까?",
+      "answer": "Link Bookmark는 즐겨찾는 링크, 웹사이트 및 온라인 리소스를 빠르게 액세스할 수 있도록 한 곳에서 저장, 구성 및 관리하도록 돕는 도구입니다."
+    },
+    "Turkish": {
+      "question": "Link Bookmark nedir?",
+      "answer": "Link Bookmark, favori bağlantılarınızı, web sitelerinizi ve çevrimiçi kaynaklarınızı hızlı erişim için tek bir yerde kaydetmenize, düzenlemenize ve yönetmenize yardımcı olan bir araçtır."
+    },
+    "Italian": {
+      "question": "Cos'è Link Bookmark?",
+      "answer": "Link Bookmark è uno strumento che ti aiuta a salvare, organizzare e gestire i tuoi link, siti e risorse online preferiti in un unico posto per un accesso rapido."
+    },
+    "Gujarati": {
+      "question": "Link Bookmark શું છે?",
+      "answer": "Link Bookmark એક સાધન છે જે તમને તમારા પ્રિય લિંક, વેબસાઇટ અને ઓનલાઈન સ્રોતોને ઝડપી ઍક્સેસ માટે એક જગ્યાએ સાચવવામાં, વ્યવસ્થિત કરવામાં અને સંચાલિત કરવામાં મદદ કરે છે."
+    },
+    "Vietnamese": {
+      "question": "Link Bookmark là gì?",
+      "answer": "Link Bookmark là một công cụ giúp bạn lưu, tổ chức và quản lý các liên kết, trang web và tài nguyên trực tuyến yêu thích của mình ở một nơi để truy cập nhanh chóng."
+    },
+    "Polish": {
+      "question": "Czym jest Link Bookmark?",
+      "answer": "Link Bookmark to narzędzie, które pomaga zapisywać, organizować i zarządzać ulubionymi linkami, stronami internetowymi i zasobami online w jednym miejscu dla szybkiego dostępu."
+    },
+    "Dutch": {
+      "question": "Wat is Link Bookmark?",
+      "answer": "Link Bookmark is een tool die je helpt je favoriete links, websites en online bronnen op één plek op te slaan, te organiseren en te beheren voor snelle toegang."
+    },
+    "Thai": {
+      "question": "Link Bookmark คืออะไร?",
+      "answer": "Link Bookmark เป็นเครื่องมือที่ช่วยให้คุณบันทึก จัดระเบียบ และจัดการลิงก์ เว็บไซต์ และทรัพยากรออนไลน์ที่คุณชื่นชอบไว้ในที่เดียวเพื่อการเข้าถึงอย่างรวดเร็ว."
+    },
+    "Portuguese PT": {
+      "question": "O que é o Link Bookmark?",
+      "answer": "O Link Bookmark é uma ferramenta que ajuda a guardar, organizar e gerir os seus links, sites e recursos online favoritos num só lugar para acesso rápido."
+    },
+    "Ukrainian": {
+      "question": "Що таке Link Bookmark?",
+      "answer": "Link Bookmark — це інструмент, який допомагає зберігати, організовувати та керувати улюбленими посиланнями, сайтами та онлайн-ресурсами в одному місці для швидкого доступу."
+    },
+    "Persian": {
+      "question": "Link Bookmark چیست؟",
+      "answer": "Link Bookmark ابزاری است که به شما کمک می کند لینک ها، وب سایت ها و منابع آنلاین مورد علاقه خود را در یک مکان ذخیره، سازماندهی و مدیریت کنید تا سریعتر به آنها دسترسی پیدا کنید."
+    },
+    "Bengali": {
+      "question": "Link Bookmark কী?",
+      "answer": "Link Bookmark একটি টুল যা আপনাকে আপনার প্রিয় লিঙ্ক, ওয়েবসাইট এবং অনলাইন রিসোর্স এক জায়গায় সংরক্ষণ, সজ্জিত এবং পরিচালনা করতে সাহায্য করে যাতে দ্রুত অ্যাক্সেস করা যায়।"
+    },
+    "Filipino": {
+      "question": "Ano ang Link Bookmark?",
+      "answer": "Ang Link Bookmark ay isang tool na tumutulong sa iyo na i-save, i-organisa, at pamahalaan ang iyong mga paboritong link, website, at online na mapagkukunan sa isang lugar para sa mabilis na pag-access."
+    },
+    "Malay": {
+      "question": "Apa itu Link Bookmark?",
+      "answer": "Link Bookmark adalah alat yang membantu anda menyimpan, mengatur, dan mengurus pautan, laman web, dan sumber dalam talian kegemaran anda di satu tempat untuk akses pantas."
+    },
+    "Hebrew": {
+      "question": "מה זה Link Bookmark?",
+      "answer": "Link Bookmark הוא כלי שעוזר לך לשמור, לארגן ולנהל את הקישורים, האתרים והמשאבים המקוונים המועדפים עליך במקום אחד כדי לגשת אליהם במהירות."
+    },
+    "Romanian": {
+      "question": "Ce este Link Bookmark?",
+      "answer": "Link Bookmark este un instrument care vă ajută să salvați, să organizați și să gestionați linkurile, site-urile și resursele online preferate într-un singur loc pentru acces rapid."
+    },
+    "Swedish": {
+      "question": "Vad är Link Bookmark?",
+      "answer": "Link Bookmark är ett verktyg som hjälper dig att spara, organisera och hantera dina favoritlänkar, webbplatser och online-resurser på ett ställe för snabb åtkomst."
+    },
+    "Czech": {
+      "question": "Co je to Link Bookmark?",
+      "answer": "Link Bookmark je nástroj, který vám pomáhá ukládat, organizovat a spravovat vaše oblíbené odkazy, webové stránky a online zdroje na jednom místě pro rychlý přístup."
+    },
+    "Greek": {
+      "question": "Τι είναι το Link Bookmark;",
+      "answer": "Το Link Bookmark είναι ένα εργαλείο που σας βοηθά να αποθηκεύσετε, οργανώσετε και διαχειριστείτε τους αγαπημένους σας συνδέσμους, ιστότοπους και διαδικτυακούς πόρους σε ένα μέρος για γρήγορη πρόσβαση."
+    },
+    "Hungarian": {
+      "question": "Mi az a Link Bookmark?",
+      "answer": "A Link Bookmark egy eszköz, amely segít menteni, rendszerezni és kezelni kedvenc hivatkozásait, webhelyeit és online forrásait egy helyen a gyors hozzáférés érdekében."
+    },
+    "Danish": {
+      "question": "Hvad er Link Bookmark?",
+      "answer": "Link Bookmark er et værktøj, der hjælper dig med at gemme, organisere og administrere dine foretrukne links, websteder og online ressourcer ét sted for hurtig adgang."
+    },
+    "Finnish": {
+      "question": "Mikä on Link Bookmark?",
+      "answer": "Link Bookmark on työkalu, joka auttaa sinua tallentamaan, järjestämään ja hallinnoimaan suosikkilinkkejäsi, verkkosivujasi ja verkkoresurssejasi yhdessä paikassa nopeaa käyttöä varten."
+    },
+    "Norwegian": {
+      "question": "Hva er Link Bookmark?",
+      "answer": "Link Bookmark er et verktøy som hjelper deg med å lagre, organisere og administrere favorittlinkene, nettstedene og online ressursene dine på ett sted for rask tilgang."
+    },
+    "Slovak": {
+      "question": "Čo je to Link Bookmark?",
+      "answer": "Link Bookmark je nástroj, ktorý vám pomáha ukladať, organizovať a spravovať obľúbené odkazy, webové stránky a online zdroje na jednom mieste pre rýchly prístup."
+    },
+    "Croatian": {
+      "question": "Što je Link Bookmark?",
+      "answer": "Link Bookmark je alat koji vam pomaže spremiti, organizirati i upravljati vašim omiljenim vezama, web stranicama i internetskim resursima na jednom mjestu za brzi pristup."
+    },
+    "Serbian": {
+      "question": "Шта је Link Bookmark?",
+      "answer": "Link Bookmark је алат који вам помаже да сачувате, организујете и управљате омиљеним везама, веб локацијама и онлајн ресурсима на једном месту за брз приступ."
+    },
+    "Bulgarian": {
+      "question": "Какво е Link Bookmark?",
+      "answer": "Link Bookmark е инструмент, който ви помага да запазвате, организирате и управлявате любимите си връзки, уебсайтове и онлайн ресурси на едно място за бърз достъп."
+    },
+    "Catalan": {
+      "question": "Què és Link Bookmark?",
+      "answer": "Link Bookmark és una eina que t'ajuda a desar, organitzar i gestionar els teus enllaços, llocs web i recursos en línia preferits en un sol lloc per accés ràpid."
+    },
+    "Afrikaans": {
+      "question": "Wat is Link Bookmark?",
+      "answer": "Link Bookmark is 'n hulpmiddel wat jou help om jou gunsteling skakels, webwerwe en aanlynbronne op een plek te stoor, te organiseer en te bestuur vir vinnige toegang."
+    },
+    "Swahili": {
+      "question": "Link Bookmark ni nini?",
+      "answer": "Link Bookmark ni zana inayokusaidia kuhifadhi, kupanga na kusimamia viungo, tovuti na rasilimali zako za mtandaoni unapozipenda mahali pamoja kwa ufikivu wa haraka."
+    },
+    "Chinese Traditional": {
+      "question": "什麼是 Link Bookmark？",
+      "answer": "Link Bookmark 是一個工具，可幫助您將喜愛的連結、網站和線上資源集中保存、整理和管理，便於快速存取。"
+    },
+    "Urdu": {
+      "question": "Link Bookmark کیا ہے؟",
+      "answer": "Link Bookmark ایک ٹول ہے جو آپ کو اپنے پسندیدہ لنکس، ویب سائٹس اور آن لائن وسائل کو ایک جگہ پر محفوظ، منظم اور منیج کرنے میں مدد کرتا ہے تاکہ آپ جلدی رسائی حاصل کر سکیں۔"
+    },
+    "Sinhala": {
+      "question": "Link Bookmark කුමක්ද්ද?",
+      "answer": "Link Bookmark යනු ඔබට ඔබේ ප්‍රියතම සබැඳි, වෙබ් අඩවි සහ ඔන්ලයින් සම්පත් එකම තැනක සුරකින්න, සංවිධානය කරන්න සහ කළමනාකරණය කරන්න උපකාර කරන ලද මෙවලමකි."
+    },
+    "Amharic": {
+      "question": "ሊንክ ቦክማርክ ምንድነው?",
+      "answer": "Link Bookmark የሚያግዝዎት ለእናንተ የተወደዱ ማስታወሻዎችን፣ ድር ጣቢያዎችን እና መረጃ ሃብቶችን አንድ ቦታ ላይ ማስቀመጥ፣ ማዋቀርና ማስተዳደር የሚያስችል መሣሪያ ነው."
+    },
+    "Burmese": {
+      "question": "Link Bookmark ဆိုတာဘာလဲ?",
+      "answer": "Link Bookmark သည် သင်၏စိတ်ကြိုက်လင့်ခ်များ၊ ဝက်ဘ်ဆိုက်များနှင့် အွန်လိုင်းအရင်းအမြစ်များကို အမြန်ဝင်ရောက်နိုင်ရန် တစ်နေရာလုံးတွင် သိမ်းဆည်း၊ စုစည်းနှင့် စီမံခန့်ခွဲရာတွင် အကောင်းဆုံးကူညီပေးသည့် စက်ပစ္စည်းတစ်ခုဖြစ်သည်။"
+    }
+  }
+}

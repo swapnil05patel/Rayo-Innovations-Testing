@@ -1,10 +1,14 @@
-const { defineConfig, devices } = require('@playwright/test');
-const path = require('path');
+import { defineConfig, devices } from '@playwright/test';
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
 
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 const AUTH_STATE_FILE = path.join(__dirname, 'auth-state.json');
 const HEADLESS = process.env.HEADLESS !== 'false';
 
-module.exports = defineConfig({
+export default defineConfig({
   testDir: './tests',
   testMatch: '**/*.spec.js',
   timeout: 120000,
@@ -28,7 +32,7 @@ module.exports = defineConfig({
     launchOptions: {
       args: HEADLESS ? [] : ['--start-maximized'],
     },
-    storageState: require('fs').existsSync(AUTH_STATE_FILE) ? AUTH_STATE_FILE : undefined,
+    storageState: fs.existsSync(AUTH_STATE_FILE) ? AUTH_STATE_FILE : undefined,
   },
   projects: [
     {
