@@ -1,6 +1,6 @@
 {
   "startUrl": "https://landing-bookmark.rayoinnovations.com/",
-  "crawledAt": "2026-06-08T12:30:38.810Z",
+  "crawledAt": "2026-06-08T13:14:01.561Z",
   "domain": "landing-bookmark.rayoinnovations.com",
   "pages": [
     {
@@ -10,7 +10,7 @@
       "title": "My Link Saver — Bookmark anything, find everything",
       "brokenLinks": 0,
       "imageFailures": 0,
-      "loadTimeMs": 4071,
+      "loadTimeMs": 3860,
       "screenshotPath": "/workspaces/Rayo-Innovations-Testing/Link Bookmark/reports/screenshots/landing-bookmark.rayoinnovations.com.png",
       "consoleErrors": [],
       "internalLinks": [
